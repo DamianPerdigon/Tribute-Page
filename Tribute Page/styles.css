@@ -1,0 +1,43 @@
+h1{
+    background-color: #EDE2E2;
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 45;
+  }
+  
+   p{
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 15;
+    background-color: #EDE2E2;
+  
+  }
+  
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+    max-width: 100%;
+    max-height: 70%;
+  }
+  
+  figcaption{
+    text-align: center;
+    font-size: 15;
+  }
+  
+  body{
+    background-color:#E6DADA;
+  }
+  section{
+    background-color: #EDE2E2;
+  }
+  
+  section p{
+    background-color: #ED7D7D;
+  }
+  cite{
+    background-color: #ED7D7D;
+  }
